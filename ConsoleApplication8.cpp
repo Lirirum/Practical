@@ -2,7 +2,7 @@
 #include <iomanip>
 #define _USE_MATH_DEFINES
 #include <math.h>
-// коментар для практичної
+// коментар для практичної 6
 using namespace std;
 int main()
 {
