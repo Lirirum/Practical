@@ -3,6 +3,7 @@
 #define _USE_MATH_DEFINES
 #include <math.h>
 // коментар для практичної 6
+// коментар для практичної через Microsoft Visual Studio 2019
 using namespace std;
 int main()
 {
